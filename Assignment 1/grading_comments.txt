@@ -1,0 +1,10 @@
+Well done!
+
+-1 The default constructor should set tail = NULL (like head).  The copy constructor
+ should set tail = NULL when copying from an empty list. 
+
+Minor: in reverse, it is a good idea (a good habit) to explicitly set end = NULL before reverse returns.
+ copy should still be deleted (i.e., this is not a memory leak) since its destructor should be
+ invoked when reverse ends.
+
+Textbook exercises correct (one minor error).

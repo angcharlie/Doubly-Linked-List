@@ -1,0 +1,48 @@
+first, printed with client print:
+5
+10
+20
+25
+40
+
+second, printed with client print:
+10
+25
+
+testing ==
+true
+false
+true
+
+testing !=
+false
+true
+false
+
+testing printFront on first:
+5
+10
+20
+25
+40
+
+testing printBack on first:
+40
+25
+20
+10
+5
+
+testing printFront on first after reverse:
+40
+25
+20
+10
+5
+
+testing printBack on first after reverse:
+5
+10
+20
+25
+40
